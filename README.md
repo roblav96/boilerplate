@@ -1,2 +1,2 @@
-# boilerplate
-Start a new project with my awesome boilerplate 🤓
+# New Project Boilerplate
+My awesome new project boilerplate 🤓
